@@ -57,8 +57,7 @@ Rating BYOND berbeda tajam antarversi aplikasi, misalnya v1.1.0 (2,42) dan v1.0.
 - Hubungan antara versi aplikasi dan rating adalah korelasi, bukan bukti sebab-akibat. Kolom versi kosong di sekitar 20% baris.
 
 ## Struktur Repositori
-- `notebook/` : notebook analisis
-- `sql/` : query SQL
-
+- `analisis_ulasan_bank_digital.ipynb` : notebook analisis (Python dan SQL)
+- `sql/queries.sql` : query SQL
 ## Penulis
 Agung Stiawan · linkedin.com/in/agung-stiawan-0b6990280 · agungstiawan2002@gmail.com
